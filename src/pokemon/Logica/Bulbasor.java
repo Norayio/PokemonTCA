@@ -7,6 +7,10 @@ package pokemon.Logica;
 
 public class Bulbasor extends Pokemon implements IPlanta {
 
+    public Bulbasor( ) {
+    }
+    
+
     
     /**
      * metodos heredados de la clase abstracta Pokemon

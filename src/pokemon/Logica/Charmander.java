@@ -5,7 +5,12 @@ package pokemon.Logica;
  * @author Norayio
  */
 
-public class Charmander extends Pokemon implements IFuego{
+public class Charmander extends Pokemon implements IFuego {
+
+    public Charmander( ) {
+    }
+    
+    
 
     /**
      * metodos heredados de la clase abstracta Pokemon

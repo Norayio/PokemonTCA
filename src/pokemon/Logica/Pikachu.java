@@ -6,6 +6,11 @@ package pokemon.Logica;
  */
 
 public class Pikachu extends Pokemon implements IElectrico {
+
+    public Pikachu( ) {
+    }
+    
+    
     
     /**
      * metodos heredados de la clase abstracta Pokemon

@@ -5,7 +5,12 @@ package pokemon.Logica;
  * @author Norayio
  */
 
-public class Squirtle extends Pokemon implements IAgua{
+public class Squirtle extends Pokemon implements IAgua {
+
+    public Squirtle( ) {
+    }
+    
+    
 
     /**
      * metodos heredados de la clase abstracta Pokemon
