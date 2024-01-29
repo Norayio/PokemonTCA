@@ -7,4 +7,11 @@ package pokemon.Logica;
 
 public interface IFuego {
     
+    /**
+     * métodos atacar Fuego
+     */
+    public void atacarPunioFuego( );
+    public void atacarLanzaLlamas( );
+    public void atacarAscuas( );
+    
 }

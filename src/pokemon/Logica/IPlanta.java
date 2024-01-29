@@ -7,4 +7,13 @@ package pokemon.Logica;
 
 public interface IPlanta {
     
+    /**
+     * métodos atacar Planta
+     */
+    public void atacarDrenaje( );
+    public void atacarParalizar( );
+    
+    
+    
+    
 }

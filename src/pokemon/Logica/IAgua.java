@@ -7,4 +7,13 @@ package pokemon.Logica;
 
 public interface IAgua {
     
+    /**
+     * métodos atacar Agua
+     */
+    public void atacarHidrobomba( );
+    public void atacarBurbuja( );
+    public void atacarPistolaAgua( );
+    
+    
+    
 }

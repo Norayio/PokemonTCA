@@ -12,6 +12,9 @@ public interface IElectrico {
     // y no llevan la palabra abstract.
     // OBLIGATORIAMENTE se deben sobreescribir en las clases que implementen esta interfaz.
     
+    /**
+     * métodos atacar Eléctrico
+     */
     public void atacarImpactTrueno( );
     public void atacarpunioTrueno( );
     
